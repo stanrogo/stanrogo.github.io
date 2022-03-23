@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## ABOUT ME
+I'm [Stanley Clark](https://nl.linkedin.com/in/stanleyclark) and you can find me using @stanrogo anywhere on the internet. Currently I am working/studying as a PhD candidate at [TU Eindhoven (TU/e)](https://www.tue.nl/en/) where I am doing a combined project within both the database and security groups. My focus is on efficient and correct enforcement of access control policies in both relational as well as graph databases.
 
-You can use the [editor on GitHub](https://github.com/stanrogo/stanrogo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Formerly, I completed both my Bachelor and Master degrees at the TU/e in Computer Science with a focus on Web Science. I have numerous projects collected on my [GitHub](https://www.github.com/stanrogo) page. While studying I worked as a front-end web developer for [Studyportals](https://www.studyportals.com/), a high-traffic study-search website working with Agile principles.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stanrogo/stanrogo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Besides that, I simply love trance music, playing the trombone, and of course living in the city of light that is Eindhoven. I try to take time away from the computer to read science fiction novels and enjoy learning new languages languages.
